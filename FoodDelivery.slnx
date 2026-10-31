@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiGateway/ApiGateway.csproj" Id="4af7ea32-1260-4f01-b42e-d566ff0cecba" />
+  <Project Path="DeliveryService/DeliveryService.csproj" Id="0840aa00-fd31-4a03-bd96-9d7dac9c9b1a" />
+  <Project Path="OrderService/OrderService.csproj" Id="2a462424-78d7-46e7-9a6d-101360369960" />
+  <Project Path="RestaurantService/RestaurantService.csproj" Id="3518fda2-932c-4abe-a6e5-f417275d855e" />
+</Solution>
